@@ -13,10 +13,14 @@ There are several optional HTML editors you can use. Use any editor that you lik
 
 **Mac OS**
 
-- [Text Wrangler](http://www.barebones.com/products/textwrangler/index.html) – Well know and used editor
-- [Atom](http://www.atom.io) – this a relatively new editor – SAVE OFTEN!
+- [Text Wrangler](http://www.barebones.com/products/textwrangler/index.html) – Well know and used editor.
+- [Atom](http://www.atom.io) – Nice file browsing functionality, tabs, and different themes.
+- [Brackets](http://brackets.io/) – Adobe web text editor. Nice file browsing functionality, tabs, and different themes. Has other PSD integrations.
 
 **Windows**
 
+- [NotePad++](https://notepad-plus-plus.org/download/v6.8.8.html) – Well liked by developers on Windows systems 
 - [CoffeeCup](http://www.coffeecup.com/free-editor) – very usable editor, the free version will work fine for this class
+- [Atom](http://www.atom.io) – Nice file browsing functionality, tabs, and different themes.
+- [Brackets](http://brackets.io/) – Adobe web text editor. Nice file browsing functionality, tabs, and different themes. Has other PSD integrations.
 - [HTML Kit](http://www.htmlkit.com) – very usable editor

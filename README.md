@@ -16,6 +16,7 @@ There are several optional HTML editors you can use. Use any editor that you lik
 - [Text Wrangler](http://www.barebones.com/products/textwrangler/index.html) – Well know and used editor.
 - [Atom](http://www.atom.io) – Nice file browsing functionality, tabs, and different themes.
 - [Brackets](http://brackets.io/) – Adobe web text editor. Nice file browsing functionality, tabs, and different themes. Has other PSD integrations.
+- [Sublime Text 2/3](http://www.sublimetext.com/) – Wonderful text editor. Semi-free (recurring "Buy Me" notices).
 
 **Windows**
 
@@ -23,4 +24,5 @@ There are several optional HTML editors you can use. Use any editor that you lik
 - [CoffeeCup](http://www.coffeecup.com/free-editor) – very usable editor, the free version will work fine for this class
 - [Atom](http://www.atom.io) – Nice file browsing functionality, tabs, and different themes.
 - [Brackets](http://brackets.io/) – Adobe web text editor. Nice file browsing functionality, tabs, and different themes. Has other PSD integrations.
-- [HTML Kit](http://www.htmlkit.com) – very usable editor
+- [Sublime Text 2/3](http://www.sublimetext.com/) – Wonderful text editor. Semi-free (recurring "Buy Me" notices).
+- [HTML Kit](http://www.htmlkit.com) – Very usable editor.

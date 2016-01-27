@@ -4,7 +4,7 @@ Download `louis_armstrong_start.html` and use it for HTML and CSS walkthrough in
 
 ### HOMEWORK
 
-1. Choose a musician you like (college learning env. appropriate) has a really long wikipedia page
+1. Choose two musicians you like (college learning env. appropriate) who have long wikipedia pages
 2. Copy the `louis_armstrong_start.html` file, rename it to your musician
 3. Update all info to be about your musician. Should have:
     - Main title
